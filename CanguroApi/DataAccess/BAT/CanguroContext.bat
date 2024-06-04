@@ -1,0 +1,1 @@
+Scaffold-DbContext "Data Source=LAPTOP-2BQ6QPC4\SQLEXPRESS;Initial Catalog=Canguro;Integrated Security=True;Connect Timeout=30;TrustServerCertificate=True" Microsoft.EntityFrameworkCore.SqlServer -contextDir DataAccess\Context  -OutputDir Domain\Entities  -UseDatabaseNames -NoPluralize -Tables Moneda, MovCanguro, Usuario  -f -Context CanguroContext

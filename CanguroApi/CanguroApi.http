@@ -1,0 +1,6 @@
+@CanguroApi_HostAddress = http://localhost:5145
+
+GET {{CanguroApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
